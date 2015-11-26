@@ -3,6 +3,7 @@
 var path = require('path');
 var webpack = require('webpack');
 
+// TODO: Setup Istanbul https://medium.com/@drublic/testing-es6-modules-with-mocha-using-babel-with-browserify-e6f5514f66d3#.36smooh0q
 module.exports = {
   debug: true,
   devtool: 'source-map',
